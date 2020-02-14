@@ -8,7 +8,7 @@ Chrome中以渲染方式加载（可用于Web页面展示）：https://cdn.stati
 Chrome中以源文件方式加载（可用于Web资源加载）：https://cdn.jsdelivr.net/gh/dkgee/skill-map/index.html
 
 ### 其他参考地址
-1. https://raw.githack.com/
+1. https://raw.githack.com/    缓存文件，修改后，需要重新更新
 2. CDN加速服务(https://www.jsdelivr.com)
 3. CDN加速服务(https://statically.io/)
   
