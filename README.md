@@ -7,6 +7,8 @@ Chrome中以渲染方式加载（可用于Web页面展示）：https://cdn.stati
 
 Chrome中以源文件方式加载（可用于Web资源加载）：https://cdn.jsdelivr.net/gh/dkgee/skill-map/index.html
 
+VuePress搭建一个类Vue文档风格的技术文档：https://juejin.im/post/5b8e526051882542a82baba6
+
 ### 其他参考地址
 1. https://raw.githack.com/    可以gh缓存文件，gh上文件被更新后，过几分钟会被更新。（缓存时间较短）
 2. CDN加速服务(https://www.jsdelivr.com)  （缓存时间较长）
